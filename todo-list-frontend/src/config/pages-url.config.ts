@@ -1,10 +1,10 @@
 class DASHBOARD {
-    private root = "/i"
+    private root = "/user"
     HOME = this.root
     TASKS = `${this.root}/tasks`
     HABITS = `${this.root}/habits`
     TIMER = `${this.root}/timer`
-    TIME_BLOCKING = `${this.root}/time_blocking`
+    TIME_BLOCKING = `${this.root}/time-blocking`
     SETTINGS = `${this.root}/settings`
 }
 
